@@ -9,7 +9,8 @@ Dice Simulator is a simple iOS app built with Swift that simulates rolling two d
 - User-friendly interface with intuitive controls.
 
 ## Screenshots
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-23 at 16 17 11](https://github.com/shivanagendrak/Dice_Simulator/assets/40945928/7642fc2d-3016-410e-9caf-517ec1ab91d8)
+
+<img width="364" alt="Screenshot 2024-04-23 at 4 19 28 PM" src="https://github.com/shivanagendrak/Dice_Simulator/assets/40945928/0f23762e-f435-498b-ac5c-7a4426c6f42f">
 
 
 
