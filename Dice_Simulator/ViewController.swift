@@ -19,6 +19,7 @@ class ViewController: UIViewController {
     @IBAction func diceRollPressed(_ sender: Any) {
         let diceNumbers = ["DiceOne","DiceTwo","DiceThree","DiceFour","DiceFive","DiceSix"]
         let randomNumberOne = diceNumbers[Int.random(in:0...5)]
+        // We can use random element like this also randomElement() instead of Int.random(in:0...5)
         let randomNumberTwo = diceNumbers[Int.random(in:0...5)]
         diceImageOne.image = UIImage(named: randomNumberOne)
         diceImagetwo.image = UIImage(named: randomNumberTwo)
